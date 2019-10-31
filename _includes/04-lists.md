@@ -7,3 +7,4 @@
     * Desert Solitaire
     * The Monkey Wrench Gang
     * Black Sun
+    * Heyduke Lives
